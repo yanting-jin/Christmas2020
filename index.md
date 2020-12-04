@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome to Blueberry Castle for Christmas 2020
 
-You can use the [editor on GitHub](https://github.com/yanting-jin/Christmas2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here are some short stories, lovely images, and happy songs that we cheris for counting down the Christmas at Blueberry Castle. We do it as a celebration to enrich our spiritual world, In fact, this online form of celebration is created to avoid agonising ourselves too much about what gifts we shall buy for each other and falling into the over-shopping mode. We think this way is more eternal and cherishable. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Remember in the old days, we count day the dates by singing:
+' On the first day of Christmas, my true love sent to me,
+  a patrige on the pear tree..'
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hope you enjoy the Christmas as we do :)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![sloth](https://stampendous.com/assets/images/projects//QS5008_Sloth_Christmas_DH_8001538598821-1971.jpg)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Thanks
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yanting-jin/Christmas2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
